@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akki8901
+- 👋 Hi, I’m Akshat Patel
 - 👀 I’m interested in making some contacts here on Github 
 - 🌱 I’m currently learning programming languagues
 
